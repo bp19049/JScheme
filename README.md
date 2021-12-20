@@ -44,7 +44,3 @@ It is a interpreter of Scheme by Java.
 * `let`
 * `quote`
 * `set!`
-
-
-## License
-[MIT](LICENSE)
